@@ -2,6 +2,9 @@
 
 A decentralized prediction market platform built on Ethereum where users can create, trade, and resolve prediction markets using META tokens. The platform implements automated market making for fair price discovery and provides an intuitive interface for market participation.
 
+## Live Demo
+https://prediction-market-gamma.vercel.app/
+
 ## Features
 
 - **Decentralized Prediction Markets:** Create and participate in prediction markets for any future event
@@ -27,7 +30,7 @@ A decentralized prediction market platform built on Ethereum where users can cre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/0xmetaschool/Prediction-market.git
+   git clone https://github.com/jatin192/Prediction-market.git
    ```
 
 2. Install dependencies:
