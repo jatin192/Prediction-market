@@ -2,6 +2,19 @@
 
 A decentralized prediction market platform built on Ethereum where users can create, trade, and resolve prediction markets using META tokens. The platform implements automated market making for fair price discovery and provides an intuitive interface for market participation.
 
+## Screenshots
+<table>
+  <tr>
+    <td><img src="https://github.com/0xmetaschool/Prediction-market/blob/main/public/Prediction-Market-web3-template-Landing-Page.png" alt="Screenshot 4" width="600"></td>
+    <td><img src="https://github.com/0xmetaschool/Prediction-market/blob/main/public/Prediction-Market-web3-template-Market-List.png" alt="Screenshot 1" width="600"></td>
+    </tr>
+      <tr>
+    <td><img src="https://github.com/0xmetaschool/Prediction-market/blob/main/public/Prediction-Market-web3-template-Market-info.png" alt="Screenshot 2" width="600"></td>
+    <td><img src="https://github.com/0xmetaschool/Prediction-market/blob/main/public/Prediction-Market-web3-template-Order-book.png" alt="Screenshot 4" width="600"></td>
+  </tr>
+</table>
+
+
 ## Live Demo
 https://prediction-market-gamma.vercel.app/
 
@@ -45,15 +58,6 @@ https://prediction-market-gamma.vercel.app/
    ```
 Open your browser and navigate to http://localhost:5173.
 
-## Screenshots
-<table>
-  <tr>
-    <td><img src="https://github.com/0xmetaschool/Prediction-market/blob/main/public/Prediction-Market-web3-template-Landing-Page.png" alt="Screenshot 4" width="400"></td>
-    <td><img src="https://github.com/0xmetaschool/Prediction-market/blob/main/public/Prediction-Market-web3-template-Market-List.png" alt="Screenshot 1" width="400"></td>
-    <td><img src="https://github.com/0xmetaschool/Prediction-market/blob/main/public/Prediction-Market-web3-template-Market-info.png" alt="Screenshot 2" width="400"></td>
-      <td><img src="https://github.com/0xmetaschool/Prediction-market/blob/main/public/Prediction-Market-web3-template-Order-book.png" alt="Screenshot 4" width="400"></td>
-  </tr>
-</table>
 
 
 ## Usage Flow
